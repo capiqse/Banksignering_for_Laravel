@@ -2,6 +2,7 @@
 Requried files and instructions for installing banksignering
 
 
+Upload the files.
 
 
 
